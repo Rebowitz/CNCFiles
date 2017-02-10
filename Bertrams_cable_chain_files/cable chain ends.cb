@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="cable chain2.dxf" units="Inches">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>8</ModificationCount>
+      <mat />
+      <objects>
+        <pline id="1" Closed="true">
+          <ModificationCount>278</ModificationCount>
+          <mat />
+          <pts>
+            <p b="-0.57735026918962573">0.961266457838492,2.24233822922255,-1.7708604143268E-07</p>
+            <p b="-0.57735026918962573">0.358904253114083,1.89456424817525,-2.07489408475846E-07</p>
+            <p b="-0.57735026918962573">0.358904253114082,2.59011221026984,-1.46682674389514E-07</p>
+          </pts>
+        </pline>
+        <pline id="2" Closed="true">
+          <ModificationCount>230</ModificationCount>
+          <mat />
+          <pts>
+            <p b="-0.57735026918962573">0.752605040515657,2.24233822922255,-1.7708604143268E-07</p>
+            <p b="-0.57735026918962573">0.4632349617755,2.07527033636649,-1.91691580502436E-07</p>
+            <p b="-0.57735026918962573">0.4632349617755,2.4094061220786,-1.62480502362924E-07</p>
+          </pts>
+        </pline>
+        <pline id="3" Closed="true">
+          <ModificationCount>528</ModificationCount>
+          <mat />
+          <pts>
+            <p>1.0130827716475,2.63603924721266,-1.42667605300181E-07</p>
+            <p>1.0130827716475,2.75414924721266,-1.32342101159087E-07</p>
+            <p>0.72598977164751,2.75414924721266,-1.32342101159087E-07</p>
+            <p b="1.170849566112544">0.681352005653392,2.61676994654145,-1.44352181067487E-07</p>
+            <p>0.559691771647505,1.84863824721266,-2.11504386996912E-07</p>
+            <p b="-0.99999999999999989">0.799849637789242,1.84863824721266,-2.11504386996912E-07</p>
+            <p>0.93370777164751,1.84863824721266,-2.11504386996912E-07</p>
+            <p>0.93370777164751,1.73052724721266,-2.21829978560782E-07</p>
+            <p>1.56362877164751,1.73052724721266,-2.21829978560782E-07</p>
+            <p b="-0.99999999999999989">1.56362863778924,1.84863824721266,-2.11504386996912E-07</p>
+            <p>1.6974877952025,1.84863829895216,-2.11504382473701E-07</p>
+            <p>3.17792631258639,1.84918418176861,-2.11456659882203E-07</p>
+            <p>1.8159847716475,2.61677024721266,-1.44352154781975E-07</p>
+            <p>1.77134777164752,2.75414924721266,-1.32342101159087E-07</p>
+            <p>1.4842547716475,2.75414924721266,-1.32342101159087E-07</p>
+            <p b="-0.99999999999999989">1.48425490550577,2.63603924721266,-1.42667605300181E-07</p>
+            <p>1.35039577164751,2.63603924721266,-1.42667605300181E-07</p>
+            <p b="-0.99999999999999989">1.14694090550578,2.63603924721266,-1.42667605300181E-07</p>
+          </pts>
+        </pline>
+        <pline id="4" Closed="true">
+          <ModificationCount>16</ModificationCount>
+          <mat />
+          <pts>
+            <p b="0.57735026918962573">0.978877639724917,0.723599745671085,0</p>
+            <p b="0.57735026918962573">0.376515435000508,1.07137372671838,0</p>
+            <p b="0.57735026918962573">0.376515435000507,0.375825764623791,0</p>
+          </pts>
+        </pline>
+        <pline id="5" Closed="true">
+          <ModificationCount>16</ModificationCount>
+          <mat />
+          <pts>
+            <p b="0.57735026918962573">0.770216222402082,0.723599745671085,0</p>
+            <p b="0.57735026918962573">0.480846143661925,0.890667638527138,0</p>
+            <p b="0.57735026918962573">0.480846143661925,0.556531852815032,0</p>
+          </pts>
+        </pline>
+        <pline id="6" Closed="true">
+          <ModificationCount>65</ModificationCount>
+          <mat />
+          <pts>
+            <p>1.03069395353393,0.329898727680973,0</p>
+            <p>1.03069395353393,0.211788727680972,0</p>
+            <p>0.743600953533935,0.211788727680972,0</p>
+            <p b="-1.170849566112544">0.698963187539817,0.349168028352178,0</p>
+            <p>0.57730295353393,1.11729972768097,0</p>
+            <p b="0.99999999999999989">0.817460819675667,1.11729972768097,0</p>
+            <p>0.951318953533935,1.11729972768097,0</p>
+            <p>0.951318953533935,1.23541072768097,0</p>
+            <p>1.58123995353393,1.23541072768097,0</p>
+            <p b="0.99999999999999989">1.58123981967566,1.11729972768097,0</p>
+            <p>1.71509897708893,1.11729967594147,0</p>
+            <p>3.19553749447281,1.11675379312502,0</p>
+            <p>1.83359595353393,0.349167727680975,0</p>
+            <p>1.78895895353394,0.211788727680972,0</p>
+            <p>1.50186595353393,0.211788727680972,0</p>
+            <p b="0.99999999999999989">1.5018660873922,0.329898727680973,0</p>
+            <p>1.36800695353393,0.329898727680973,0</p>
+            <p b="0.99999999999999989">1.16455208739221,0.329898727680973,0</p>
+          </pts>
+        </pline>
+        <pline id="116" Closed="true">
+          <ModificationCount>169</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 0.112570019703962 -3.03000969703164 0 1" />
+          <pts>
+            <p b="-0.57735026918962573">4.23887966752184,3.72893433040828,-4.98456823427725E-07</p>
+            <p b="-0.57735026918962573">3.63651746279744,3.38116034936098,-5.28860190470891E-07</p>
+            <p b="-0.57735026918962573">3.63651746279743,4.07670831145557,-4.68053456384559E-07</p>
+          </pts>
+        </pline>
+        <pline id="117" Closed="true">
+          <ModificationCount>169</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 0.112570019703962 -3.03000969703164 0 1" />
+          <pts>
+            <p b="-0.57735026918962573">4.03021825019901,3.72893433040828,-4.98456823427725E-07</p>
+            <p b="-0.57735026918962573">3.74084817145885,3.56186643755222,-5.13062362497481E-07</p>
+            <p b="-0.57735026918962573">3.74084817145885,3.89600222326433,-4.83851284357968E-07</p>
+          </pts>
+        </pline>
+        <pline id="118" Closed="true">
+          <ModificationCount>169</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 0.112570019703962 -3.03000969703164 0 1" />
+          <pts>
+            <p>4.29069598133086,4.12263534839839,-4.64038387295225E-07</p>
+            <p>4.29069598133086,4.24074534839839,-4.53712883154132E-07</p>
+            <p>4.00360298133086,4.24074534839839,-4.53712883154132E-07</p>
+            <p b="1.170849566112544">3.95896521533674,4.10336604772718,-4.65722963062531E-07</p>
+            <p>3.83730498133086,3.33523434839839,-5.32875168991956E-07</p>
+            <p b="-0.99999999999999989">4.07746284747259,3.33523434839839,-5.32875168991956E-07</p>
+            <p>4.21132098133086,3.33523434839839,-5.32875168991956E-07</p>
+            <p>4.21132098133086,3.21712334839839,-5.43200760555826E-07</p>
+            <p>4.84124198133086,3.21712334839839,-5.43200760555826E-07</p>
+            <p b="-0.99999999999999989">4.84124184747259,3.33523434839839,-5.32875168991956E-07</p>
+            <p>4.97510098133086,3.33523434839839,-5.32875168991956E-07</p>
+            <p>5.21525798133087,3.33523356099682,-5.32875237828788E-07</p>
+            <p>6.51000202779693,4.24074534724616,-4.53712883254863E-07</p>
+            <p>4.76186798133086,4.24074534839839,-4.53712883154132E-07</p>
+            <p b="-0.99999999999999989">4.76186811518913,4.12263534839839,-4.64038387295225E-07</p>
+            <p>4.62800898133086,4.12263534839839,-4.64038387295225E-07</p>
+            <p b="-0.99999999999999989">4.42455411518914,4.12263534839839,-4.64038387295225E-07</p>
+          </pts>
+        </pline>
+        <pline id="155" Closed="true">
+          <ModificationCount>207</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 0.0807224827815829 6.05795667714465 0 1" />
+          <pts>
+            <p b="0.57735026918962573">4.23887966752184,-3.72893433040832,1.72463030603278E-07</p>
+            <p b="0.57735026918962573">3.63651746279744,-3.38116034936103,2.3326976468961E-07</p>
+            <p b="0.57735026918962573">3.63651746279743,-4.07670831145561,1.11656296516946E-07</p>
+          </pts>
+        </pline>
+        <pline id="156" Closed="true">
+          <ModificationCount>207</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 0.0807224827815829 6.05795667714465 0 1" />
+          <pts>
+            <p b="0.57735026918962573">4.03021825019901,-3.72893433040832,1.72463030603278E-07</p>
+            <p b="0.57735026918962573">3.74084817145885,-3.56186643755227,2.0167410874279E-07</p>
+            <p b="0.57735026918962573">3.74084817145885,-3.89600222326437,1.43251952463766E-07</p>
+          </pts>
+        </pline>
+        <pline id="157" Closed="true">
+          <ModificationCount>207</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 0.0807224827815829 6.05795667714465 0 1" />
+          <pts>
+            <p>4.29069598133086,-4.12263534839843,1.03626158338279E-07</p>
+            <p>4.29069598133086,-4.24074534839843,8.2975150056092E-08</p>
+            <p>4.00360298133086,-4.24074534839843,8.2975150056092E-08</p>
+            <p b="-1.170849566112544">3.95896521533674,-4.10336604772722,1.06995309872891E-07</p>
+            <p>3.83730498133086,-3.33523434839844,2.41299721731741E-07</p>
+            <p b="0.99999999999999989">4.07746284747259,-3.33523434839844,2.41299721731741E-07</p>
+            <p>4.21132098133086,-3.33523434839844,2.41299721731741E-07</p>
+            <p>4.21132098133086,-3.21712334839844,2.61950904859481E-07</p>
+            <p>4.84124198133086,-3.21712334839844,2.61950904859481E-07</p>
+            <p b="0.99999999999999989">4.84124184747259,-3.33523434839844,2.41299721731741E-07</p>
+            <p>4.97510098133086,-3.33523434839844,2.41299721731741E-07</p>
+            <p>5.21525798133087,-3.33523356099687,2.41299859405404E-07</p>
+            <p>6.51000202779693,-4.2407453472462,8.29751502575538E-08</p>
+            <p>4.76186798133086,-4.24074534839843,8.2975150056092E-08</p>
+            <p b="0.99999999999999989">4.76186811518913,-4.12263534839843,1.03626158338279E-07</p>
+            <p>4.62800898133086,-4.12263534839843,1.03626158338279E-07</p>
+            <p b="0.99999999999999989">4.42455411518914,-4.12263534839843,1.03626158338279E-07</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <ShowCutWidths>true</ShowCutWidths>
+    <OutFile>C:\CNC files\cable chain\cable chain sides2.nc</OutFile>
+  </MachiningOptions>
+  <machineops>
+    <mop xsi:type="MOPPocket">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>5</prim>
+        <prim>4</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutOrdering>DepthFirst</CutOrdering>
+      <StepOver>0.4</StepOver>
+      <Angle>0</Angle>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>5</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.12</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>None</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs />
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>6</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.25</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>Manual</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs>
+          <HoldingTab>
+            <ParentEntityID>6</ParentEntityID>
+            <ParametricPoint>0.35739709072820014</ParametricPoint>
+            <Normal>
+              <X>-0</X>
+              <Y>1</Y>
+            </Normal>
+          </HoldingTab>
+          <HoldingTab>
+            <ParentEntityID>6</ParentEntityID>
+            <ParametricPoint>0.88357359019816528</ParametricPoint>
+            <Normal>
+              <X>-0</X>
+              <Y>-1</Y>
+            </Normal>
+          </HoldingTab>
+        </Tabs>
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPPocket">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>1</prim>
+        <prim>2</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutOrdering>DepthFirst</CutOrdering>
+      <StepOver>0.4</StepOver>
+      <Angle>0</Angle>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>2</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.12</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>None</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs />
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>3</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.25</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>Manual</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs>
+          <HoldingTab>
+            <ParentEntityID>3</ParentEntityID>
+            <ParametricPoint>0.35955943563695203</ParametricPoint>
+            <Normal>
+              <X>0</X>
+              <Y>-1</Y>
+            </Normal>
+          </HoldingTab>
+          <HoldingTab>
+            <ParentEntityID>3</ParentEntityID>
+            <ParametricPoint>0.88391867774444555</ParametricPoint>
+            <Normal>
+              <X>0</X>
+              <Y>1</Y>
+            </Normal>
+          </HoldingTab>
+        </Tabs>
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPPocket">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>116</prim>
+        <prim>117</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutOrdering>DepthFirst</CutOrdering>
+      <StepOver>0.4</StepOver>
+      <Angle>0</Angle>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>117</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.12</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>None</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs />
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>118</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.25</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>Manual</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs>
+          <HoldingTab>
+            <ParentEntityID>118</ParentEntityID>
+            <ParametricPoint>0.36018597370177147</ParametricPoint>
+            <Normal>
+              <X>-0</X>
+              <Y>1</Y>
+            </Normal>
+          </HoldingTab>
+          <HoldingTab>
+            <ParentEntityID>118</ParentEntityID>
+            <ParametricPoint>0.81488498401306952</ParametricPoint>
+            <Normal>
+              <X>-6.5911808123575637E-10</X>
+              <Y>-1</Y>
+            </Normal>
+          </HoldingTab>
+        </Tabs>
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPPocket">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>155</prim>
+        <prim>156</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutOrdering>DepthFirst</CutOrdering>
+      <StepOver>0.4</StepOver>
+      <Angle>0</Angle>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>156</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.12</TargetDepth>
+      <DepthIncrement>0.12</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>None</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs />
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>157</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.25</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>Manual</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs>
+          <HoldingTab>
+            <ParentEntityID>157</ParentEntityID>
+            <ParametricPoint>0.35779605279413151</ParametricPoint>
+            <Normal>
+              <X>-0</X>
+              <Y>1</Y>
+            </Normal>
+          </HoldingTab>
+          <HoldingTab>
+            <ParentEntityID>157</ParentEntityID>
+            <ParametricPoint>0.8238490030989245</ParametricPoint>
+            <Normal>
+              <X>6.5911808123575637E-10</X>
+              <Y>-1</Y>
+            </Normal>
+          </HoldingTab>
+        </Tabs>
+      </HoldingTabs>
+    </mop>
+  </machineops>
+  <ActiveLayer>0</ActiveLayer>
+</CADFile>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="std_dbl_chair_back_rail_A" units="Inches">
+  <layers>
+    <layer name="Default" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <arc id="9" p="16.9611020057283,-74.2953540830608,0" r="76.206814784349149" s="85.03053785166712" w="17.829296754740895">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="10" p="14.7243865568543,-87.6584919488987,0" r="89.752774243277429" s="77.5983514964496" w="5.4659596849335514">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="12" p="16.5165192642601,-65.7887230223378,0" r="70.500723132031837" s="88.489441890823727" w="15.059417006894847">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <pline id="14">
+          <ModificationCount>4</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>18.375,4.6875,0</p>
+            <p>18.375,4.3125,0</p>
+            <p>20.375,4.3125,0</p>
+            <p>20.375,4.625,0</p>
+          </pts>
+        </pline>
+        <pline id="19">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>25.5625,1.4375,0</p>
+            <p>25.5625,1.75,0</p>
+            <p>23.5625,1.75,0</p>
+            <p>23.5625,1.625,0</p>
+          </pts>
+        </pline>
+        <arc id="20" p="31.1300410824319,0.366751913096501,0" r="2.8932976262888825" s="352.71764485242261" w="82.361919243470425">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="24" p="15.8333198410997,-77.0322820187032,0" r="81.78348589628456" s="78.688196376810936" w="8.1283609407299764">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="25" p="0.318570772691982,1.375,0" r="1.4114220974653775" s="103.04457767620662" w="153.91084464758663">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Default</ActiveLayer>
+</CADFile>

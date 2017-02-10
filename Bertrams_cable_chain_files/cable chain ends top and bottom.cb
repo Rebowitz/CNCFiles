@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="cable chain2.dxf" units="Inches">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>8</ModificationCount>
+      <mat />
+      <objects>
+        <pline id="56" Closed="true">
+          <ModificationCount>88</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 -3.61162146550211 0.0281425049259904 0 1" />
+          <pts>
+            <p>4.98423970700605,1.221253679972,0</p>
+            <p>5.22045970700605,1.22125369029751,0</p>
+            <p>5.2204596295088,2.83554364844313,0</p>
+            <p>3.8454606295088,2.83554364844313,0</p>
+            <p>3.84546070700605,1.22125363019439,0</p>
+            <p b="-0.99999999999999678">4.08168070700605,1.2212536405199,0</p>
+            <p>4.08168066910849,1.08739550878231,0</p>
+            <p b="-0.99999999999999989">4.08168072812137,0.738191640434219,0</p>
+            <p>4.08168073397253,0.604332640434219,0</p>
+            <p>3.84546073397253,0.604332630108715,0</p>
+            <p>3.84546075076714,0.220116630108715,0</p>
+            <p>5.22045975076714,0.22011669021183,0</p>
+            <p>5.22045973397253,0.60433269021183,0</p>
+            <p b="-0.99999999999999989">4.98423973397253,0.604332546028055,0</p>
+            <p>4.9842397263496,0.738191663632826,0</p>
+            <p b="-0.99999999999999989">4.98423971285718,1.08739554611373,0</p>
+          </pts>
+        </pline>
+        <pline id="154" Closed="true">
+          <ModificationCount>84</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 -3.61162146550211 0.0281425049259904 0 1" />
+          <pts>
+            <p b="-0.99999999999999989">6.82524835274963,0.995374727146293,0</p>
+            <p>6.82524824142456,1.12923383712769,0</p>
+            <p>6.8252477645874,2.74350309371948,0</p>
+            <p>5.92269039154053,2.74350309371948,0</p>
+            <p b="-1.0000000000000067">5.92269034689849,1.12923295541077,0</p>
+            <p>5.92269035274962,0.995374821552494,0</p>
+            <p>5.68646935274962,0.995374811226953,0</p>
+            <p>5.68646937385295,0.511202813826243,0</p>
+            <p b="-0.99999999999999989">5.92269037385294,0.511202958010063,0</p>
+            <p>5.92269037970407,0.377344824151783,0</p>
+            <p>5.92269038640218,0.224109824151783,0</p>
+            <p>6.82524838640219,0.224109863603853,0</p>
+            <p b="-0.99999999999999323">6.82524837970408,0.377344729745583,0</p>
+            <p>6.82524837385295,0.511202863603853,0</p>
+            <p>7.06146937385295,0.511202873929403,0</p>
+            <p>7.06146935274962,0.995374871330113,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <ShowCutWidths>true</ShowCutWidths>
+    <OutFile>C:\CNC files\cable chain\cable chain sides2.nc</OutFile>
+  </MachiningOptions>
+  <machineops>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>56</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.25</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>Manual</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs>
+          <HoldingTab>
+            <ParentEntityID>56</ParentEntityID>
+            <ParametricPoint>0.27600171010243268</ParametricPoint>
+            <Normal>
+              <X>0</X>
+              <Y>1</Y>
+            </Normal>
+          </HoldingTab>
+          <HoldingTab>
+            <ParentEntityID>56</ParentEntityID>
+            <ParametricPoint>0.77386536001466266</ParametricPoint>
+            <Normal>
+              <X>4.3711388162972883E-08</X>
+              <Y>-0.999999999999999</Y>
+            </Normal>
+          </HoldingTab>
+        </Tabs>
+      </HoldingTabs>
+    </mop>
+    <mop xsi:type="MOPProfile">
+      <ToolDiameter>0.125</ToolDiameter>
+      <PlungeFeedrate>10</PlungeFeedrate>
+      <CutFeedrate>80</CutFeedrate>
+      <StockSurface>0</StockSurface>
+      <ClearancePlane>0.25</ClearancePlane>
+      <primitive>
+        <prim>154</prim>
+      </primitive>
+      <mat />
+      <TargetDepth>-0.25</TargetDepth>
+      <DepthIncrement>0.063</DepthIncrement>
+      <FinalDepthIncrement>0</FinalDepthIncrement>
+      <CutWidth>0</CutWidth>
+      <StepOver>0.4</StepOver>
+      <LeadInMove>
+        <LeadInType>None</LeadInType>
+        <SpiralAngle>0</SpiralAngle>
+        <TangentRadius>0</TangentRadius>
+      </LeadInMove>
+      <HoldingTabs>
+        <TabMethod>Manual</TabMethod>
+        <Width>0.125</Width>
+        <Height>0.188</Height>
+        <MinimumTabs>2</MinimumTabs>
+        <MaximumTabs>6</MaximumTabs>
+        <TabDistance>0</TabDistance>
+        <Tabs>
+          <HoldingTab>
+            <ParentEntityID>154</ParentEntityID>
+            <ParametricPoint>0.28325855035995817</ParametricPoint>
+            <Normal>
+              <X>0</X>
+              <Y>1</Y>
+            </Normal>
+          </HoldingTab>
+          <HoldingTab>
+            <ParentEntityID>154</ParentEntityID>
+            <ParametricPoint>0.78420779328748358</ParametricPoint>
+            <Normal>
+              <X>4.37113958939922E-08</X>
+              <Y>-0.999999999999999</Y>
+            </Normal>
+          </HoldingTab>
+        </Tabs>
+      </HoldingTabs>
+    </mop>
+  </machineops>
+  <ActiveLayer>0</ActiveLayer>
+</CADFile>
